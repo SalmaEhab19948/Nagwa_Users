@@ -1,0 +1,899 @@
+{
+  "data": [
+    {
+      "key": "Activate Account",
+      "value": "Activer le compte"
+    },
+    {
+      "key": "Delete",
+      "value": "Supprimer"
+    },
+    {
+      "key": "Confirm_Delete",
+      "value": "Supprimer"
+    },
+    {
+      "key": "Admin",
+      "value": "Administrateur"
+    },
+    {
+      "key": "Admission Supervisor",
+      "value": "Superviseur d’admission"
+    },
+    {
+      "key": "Are you sure you want to activate this account?",
+      "value": "Voulez-vous vraiment activer ce compte ?"
+    },
+    {
+      "key": "Are you sure you want to deactivate this account?",
+      "value": "Voulez-vous vraiment désactiver ce compte ?"
+    },
+    {
+      "key": "Are you sure you want to delete this user ?",
+      "value": "Voulez-vous vraiment supprimer  ce compte ?"
+    },
+    {
+      "key": "Attach",
+      "value": "JOINDRE"
+    },
+    {
+      "key": "Attendance Coordinator",
+      "value": "Superviseur des présences"
+    },
+    {
+      "key": "Cancel",
+      "value": "ANNULER"
+    },
+    {
+      "key": "Create",
+      "value": "CRÉER"
+    },
+    {
+      "key": "Create New School Staff Member",
+      "value": "Créer un nouveau membre du personnel"
+    },
+    {
+      "key": "Create_Staff_Member",
+      "value": "Créer un nouveau membre du personnel"
+    },
+    {
+      "key": "Deactivate",
+      "value": "Désactiver"
+    },
+    {
+      "key": "Confirm_Deactivate",
+      "value": "Désactiver"
+    },
+    {
+      "key": "Deactivate Account",
+      "value": "Désactiver le compte"
+    },
+    {
+      "key": "Deactivated_Account",
+      "value": "Your account has been deactivated.Please contact your portal admin"
+    },
+    {
+      "key": "Delete user",
+      "value": "Supprimer l'utilisateur"
+    },
+    {
+      "key": "Edit School Staff Member",
+      "value": "Modifier un nouveau membre du personnel"
+    },
+    {
+      "key": "Email",
+      "value": "E-mail"
+    },
+    {
+      "key": "Username_Exists"
+    },
+    {
+      "key": "Enter_Valid_Email",
+      "value": "Veuillez saisir une adresse e-mail valide."
+    },
+    {
+      "key": "Already_Exists"
+    },
+    {
+      "key": "Code_Exists"
+    },
+    {
+      "key": "Excel File",
+      "value": "Fichier Excel"
+    },
+    {
+      "key": "First_Name_Validation",
+      "value": "Le prénom doit comporter entre 3 et 50 caractères."
+    },
+    {
+      "key": "FirstName",
+      "value": "Prénom"
+    },
+    {
+      "key": "Grade/Subjects",
+      "value": "Niveaux/matières"
+    },
+    {
+      "key": "Grades_Subjects_Head",
+      "value": "Niveaux/matières pour le chef de département."
+    },
+    {
+      "key": "Grades_Subjects_Teacher",
+      "value": "Niveaux/matières pour les enseignants"
+    },
+    {
+      "key": "Head of Department",
+      "value": "Chef de service"
+    },
+    {
+      "key": "Last_Name_Validation",
+      "value": "Le nom doit comporter entre 3 et 50 caractères."
+    },
+    {
+      "key": "LastName",
+      "value": "Nom"
+    },
+    {
+      "key": "Manager",
+      "value": "Manager"
+    },
+    {
+      "key": "Mobile Number",
+      "value": "Numéro de téléphone portable"
+    },
+    {
+      "key": "MultipleAddNote",
+      "value": []
+    },
+    {
+      "key": "Nedd_Classroom_ToProceed",
+      "value": "Vous devez sélectionner un groupe d'élèves pour continuer."
+    },
+    {
+      "key": "Need_Role_ToProceed",
+      "value": "Veuillez sélectionner un ou plusieurs rôles pour continuer."
+    },
+    {
+      "key": "Next",
+      "value": "Prochaine"
+    },
+    {
+      "key": "only_1000",
+      "value": "Et le nombre maximum d'enseignants à ajouter est de 1000"
+    },
+    {
+      "key": "Please select one or more role to proceed",
+      "value": "Veuillez sélectionner un ou plusieurs rôles pour continuer."
+    },
+    {
+      "key": "Previous",
+      "value": "Précédente"
+    },
+    {
+      "key": "Required_Field",
+      "value": "Ce champ est obligatoire."
+    },
+    {
+      "key": "Roles",
+      "value": "Rôles"
+    },
+    {
+      "key": "School Staff",
+      "value": "Personnel de l’école"
+    },
+    {
+      "key": "Select Grade",
+      "value": "Sélectionner un niveau"
+    },
+    {
+      "key": "Select Roles",
+      "value": "Sélectionner un rôle"
+    },
+    {
+      "key": "Select Subject",
+      "value": "Sélectionner une matière"
+    },
+    {
+      "key": "Select subject and grade",
+      "value": "Veuillez sélectionner la matière et le niveau."
+    },
+    {
+      "key": "Select Subjects",
+      "value": "Sélectionner une matière"
+    },
+    {
+      "key": "Select_Classroom",
+      "value": "Sélectionnez le groupe d'étudiants"
+    },
+    {
+      "key": "Something_Wrong",
+      "value": "Une erreur s’est produite !"
+    },
+    {
+      "key": "Staff",
+      "value": "Personnel de l’école"
+    },
+    {
+      "key": "StaffInPagging",
+      "value": "Membres"
+    },
+    {
+      "key": "Teacher",
+      "value": "Enseignant"
+    },
+    {
+      "key": "The following subjects in this classroom has subsets. Please choose which subset this student will attend.",
+      "value": "Les matières suivantes dans cette classe comportent des sous-ensembles. Veuillez choisir le sous-ensemble auquel l’élève assistera."
+    },
+    {
+      "key": "Type User Name/Email",
+      "value": "Saisissez le nom d'utilisateur/l'e-mail"
+    },
+    {
+      "key": "Update",
+      "value": "MODIFIER"
+    },
+    {
+      "key": "EmptyViewMessage",
+      "value": "Vous n’avez encore aucun élève. Commencez à ajouter des élèves dès maintenant !"
+    },
+    {
+      "key": "Upload",
+      "value": "Charger"
+    },
+    {
+      "key": "User_Added_Successfully",
+      "value": "L'utilisateur a été ajouté avec succès."
+    },
+    {
+      "key": "User Updated Successfully",
+      "value": "L'utilisateur a été mis à jour avec succès"
+    },
+    {
+      "key": "ValidEmail",
+      "value": "Veuillez saisir une adresse e-mail valide."
+    },
+    {
+      "key": "ValidNumber",
+      "value": "Veuillez entrer un nombre valide."
+    },
+    {
+      "key": "No_Staff_Memebers_Yet",
+      "value": "You have no staff members yet. Start adding  staff members now!"
+    },
+    {
+      "key": "You need to select a classroom to proceed.",
+      "value": "Vous devez sélectionner un groupe d'élèves pour continuer."
+    },
+    {
+      "key": "You need to select a grade to proceed.",
+      "value": "Sélectionnez un niveau pour continuer."
+    },
+    {
+      "key": "You need to select a subject to proceed.",
+      "value": "Sélectionnez une matière pour continuer."
+    },
+
+    {
+      "key": "CreateStudents",
+      "value": "Créer des élèves"
+    },
+    {
+      "key": "Upload",
+      "value": "Charger"
+    },
+    {
+      "key": "Excel_File",
+      "value": "Fichier Excel"
+    },
+    {
+      "key": "OK",
+      "value": "OK"
+    },
+    {
+      "key": "Attach",
+      "value": "JOINDRE"
+    },
+    {
+      "key": "Individual",
+      "value": "Individuel"
+    },
+    {
+      "key": "Multiple",
+      "value": "Multiple"
+    },
+    {
+      "key": "StudentCode",
+      "value": "Code de l'élève"
+    },
+    {
+      "key": "First_Name",
+      "value": "Prénom"
+    },
+    {
+      "key": "Last_Name",
+      "value": "Nom"
+    },
+    {
+      "key": "Username",
+      "value": "Nom d'utilisateur"
+    },
+    {
+      "key": "Grade",
+      "value": "Niveau"
+    },
+    {
+      "key": "Select_Grade",
+      "value": "Sélectionner un niveau"
+    },
+    {
+      "key": "First_Length",
+      "value": "Le prénom doit comporter entre {0} et {1} caractères."
+    },
+    {
+      "key": "Last_Length",
+      "value": "Le nom doit comporter entre {0} et {1} caractères."
+    },
+    {
+      "key": "No_file_attached",
+      "value": "Aucun fichier en pièce jointe."
+    },
+    {
+      "key": "Name_Alphanumeric_Validation",
+      "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+    },
+    {
+      "key": "Allawed_Chars",
+      "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+    },
+    {
+      "key": "Cancel",
+      "value": "Annuler"
+    },
+    {
+      "key": "Classrooms",
+      "value": "Classes"
+    },
+    {
+      "key": "CREATE",
+      "value": "CRÉER"
+    },
+    {
+      "key": "Create Students",
+      "value": "Créer des élèves"
+    },
+    {
+      "key": "Mobile Number",
+      "value": "Numéro de téléphone portable"
+    },
+    {
+      "key": "Student_code_validation",
+      "value": "doit être écrit en caractères latins"
+    },
+    {
+      "key": "Only dashes, underscores, and periods are allowed",
+      "value": "seuls les tirets, les traits bas et les points sont autorisés"
+    },
+    {
+      "key": "Please enter at least {0} characters.",
+      "value": "Veuillez saisir au moins {0} caractères."
+    },
+    {
+      "key": "Select Subject",
+      "value": "Sélectionner une matière"
+    },
+    {
+      "key": "The Username All",
+      "value": "Le nom d’utilisateur :\n- doit être écrit en caractères latins\n- doit comporter de 1 à 50 caractères\n- doit contenir au moins une lettre\n- seuls les tirets, les traits bas et les points sont autorisés\n- les caractères spéciaux sont autorisés, sauf au début\n- doit inclure le code du suffixe du portail à la fin\n- pas d’espaces"
+    },
+    {
+      "key": "Tutor Groups",
+      "value": "Groupes de tuteurs"
+    },
+    {
+      "key": "You can only use letters, numbers, dashes, underscores, and periods.",
+      "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+    },
+    {
+      "key": "You need to select a classroom to proceed.",
+      "value": "Vous devez sélectionner un groupe d'élèves pour continuer."
+    },
+    {
+      "key": "You need to select a tutor group to proceed.",
+      "value": "Modifier les élèves"
+    },
+    {
+      "key": "The following subjects in this classroom has subsets. Please choose which subset this student will attend.",
+      "value": "Les matières suivantes dans cette classe comportent des sous-ensembles. Veuillez choisir le sous-ensemble auquel l’élève assistera."
+    },
+    {
+      "key": "You have no students yet. Start adding students now!",
+      "value": "Vous n’avez encore aucun élève. Commencez à ajouter des élèves dès maintenant !"
+    },
+    {
+      "key": "Activate all",
+      "value": "Activer tout"
+    },
+    {
+      "key": "Deactivate all",
+      "value": "Désactiver tout"
+    },
+    {
+      "key": "Delete all",
+      "value": "Supprimer tout"
+    },
+    {
+      "key": "Remove all",
+      "value": "Retirer tout"
+    },
+    {
+      "key": "Reset all passwords",
+      "value": "Réinitialiser tous les mots de passe"
+    },
+    {
+      "key": "Upload_text",
+      "value": "Pour charger plusieurs membres du personnel de l’école, téléchargez notre feuille modèle et ajoutez le nom et le prénom de vos employés, leur adresse électronique, leur numéro de portable et leur rôle. Suivant le rôle, ajoutez le niveau, la matière et les classes dont ils seront responsables et qui ont été déjà saisies dans la configuration du portail.\nSi vous ajoutez un membre à plusieurs rôles, séparez les membres dans la feuille Excel par une virgule."
+    },
+    {
+      "key": "Are you sure you want to activate All?",
+      "value": "Êtes-vous sûr de vouloir activer tous les comptes ?"
+    },
+    {
+      "key": "Are you sure you want to deactivate All?",
+      "value": "Êtes-vous sûr de vouloir désactiver tous les comptes ?"
+    },
+    {
+      "key": "Are you sure you want to deactivate this student?",
+      "value": "Êtes-vous sûr de vouloir désactiver cet utilisateur ?"
+    },
+    {
+      "key": "Are you sure you want to delete All?",
+      "value": "Êtes-vous sûr de vouloir supprimer tous les comptes ?"
+    },
+    {
+      "key": "Are you sure you want to delete this Student?",
+      "value": "Êtes-vous sûr de vouloir supprimer cet utilisateur ?"
+    },
+    {
+      "key": "Are you sure you want to reset All?",
+      "value": "Etes-vous sûr de vouloir réinitialiser tous les mots de passe ?"
+    },
+    {
+      "key": "Are you sure you want to Reset this Password?",
+      "value": "Voulez-vous vraiment réinitialiser ce mot de passe ?"
+    },
+    {
+      "key": "Clear",
+      "value": "Effacer"
+    },
+    {
+      "key": "Deactivate",
+      "value": "Désactiver"
+    },
+    {
+      "key": "Deactivate student",
+      "value": "Désactiver l'élève"
+    },
+
+    {
+      "key": "Delete Student",
+      "value": "Supprimer l'élève"
+    },
+    {
+      "key": "NewStudent",
+      "value": "Créer des élèves"
+    },
+    {
+      "key": "Next",
+      "value": "Suivants"
+    },
+    {
+      "key": "Reset",
+      "value": "Réinitialiser"
+    },
+    {
+      "key": "Reset All",
+      "value": "Réinitialiser tous les mots de passe"
+    },
+    {
+      "key": "Reset Password",
+      "value": "Réinitialiser le mot de passe"
+    },
+    {
+      "key": "Select All Grades",
+      "value": "Sélectionner toutes les notes"
+    },
+    {
+      "key": "Select Tutor Group",
+      "value": "Sélectionnez le groupe d'étudiants"
+    },
+    {
+      "key": "Students",
+      "value": "Élèves"
+    },
+    {
+      "key": "Type student code or name",
+      "value": "Tapez le code ou le nom de l'élève."
+    },
+    {
+      "key": "Activate_Student",
+      "value": "Activer l'utilisateur"
+    },
+    {
+      "key": "Are_you_sure_you_want_to_activate_this_student",
+      "value": "Êtes-vous sûr de vouloir activer cet utilisateur ?"
+    },
+    {
+      "key": "Deactivate_student",
+      "value": "Désactiver l'élève"
+    },
+    {
+      "key": "Previous",
+      "value": "Précédents"
+    },
+    {
+      "key": "Select_All_Tutor_Group",
+      "value": "Sélectionner tous les groupes d'étudiants"
+    },
+    {
+      "key": "File_Uploaded_Succesfully",
+      "value": "Le fichier a été chargé avec succès."
+    },
+    {
+      "key": "Must be written in Latin characters and only dashes, underscores, and periods are allowed.",
+      "value": "doit être écrit en caractères latins,seuls les tirets, les traits bas et les points sont autorisés"
+    },
+    {
+      "key": "Must contain at least one letter",
+      "value": "doit contenir au moins une lettre"
+    },
+    {
+      "key": "Special characters are permitted except at the beginning and at the end.",
+      "value": []
+    },
+    {
+      "key": "Suffix_validation",
+      "value": "Le nom d’utilisateur doit inclure le code du suffixe du portail à la fin"
+    },
+    {
+      "key": "This field can not be in Arabic.",
+      "value": "doit être écrit en caractères latins"
+    },
+    {
+      "key": "This field should be between {0} to {1} characters.",
+      "value": []
+    },
+    {
+      "key": "Chat",
+
+      "value": "Chat"
+    },
+    {
+      "key": "Configuration",
+      "value": "Configuration du portail"
+    },
+    {
+      "key": "Connect",
+      "value": "Connect"
+    },
+    {
+      "key": "Homework",
+      "value": "Homework"
+    },
+    {
+      "key": "Multiple_Long_Text",
+      "value": "\"Pour charger plusieurs membres du personnel de l’école, téléchargez notre feuille modèle et ajoutez le nom et le prénom de vos employés, leur adresse électronique, leur numéro de portable et leur rôle. Suivant le rôle, ajoutez le niveau, la matière et les classes dont ils seront responsables et qui ont été déjà saisies dans la configuration du portail.\n\nSi vous ajoutez un membre à plusieurs rôles, séparez les membres dans la feuille Excel par une virgule.\""
+    },
+    {
+      "key": "My Library",
+      "value": "Ma bibliothèque"
+    },
+    {
+      "key": "My_Account",
+      "value": "Mon compte"
+    },
+    {
+      "key": "Portal_Info",
+      "value": "Informations sur le portail"
+    },
+    {
+      "key": "Sign_Out",
+      "value": "Déconnexion"      
+    },
+    {
+      "key": "Users",
+      "value": "Utilisateurs"
+    },
+    {
+      "key": "Only1000",
+      "value": []
+    },
+    {
+      "key": "Activate",
+      "value": "Activer"
+    },
+    {
+      "key": "Confirm_Activate",
+      "value": "Activer"
+    },
+    {
+      "key": "Edit",
+      "value": "MODIFIER"
+    },
+    {
+      "key": "Of",
+      "value": "sur"
+    },
+    {
+      "key": "Contact_Us",
+      "value": "Nous contacter"
+    },
+    {
+      "key": "Copyright",
+      "value": "Copyright © 2022 Nagwa"
+    },
+    {
+      "key": "Privacy_Policy",
+      "value": "Politique de confidentialité"
+    },
+    {
+      "key": "Rights_Reserved",
+      "value": "Tous droits réservés"
+    },
+    {
+      "key": "Terms_Conditions",
+      "value": "Termes et conditions"
+    },
+    {
+      "key": "String1",
+      "value": "Activer"
+    },
+    {
+      "key": "Classroom",
+      "value": "groupe d'élèves"
+    },
+    {
+      "key": "Nedd_Classroom_ToProceed",
+      "value": "Vous devez sélectionner un groupe d'élèves pour continuer."
+    },
+    {
+      "key": "Activate_User",
+      "value": "Activer l'utilisateur"
+    },
+    {
+      "key": "Deactivate_User",
+      "value": "Désactiver l'utilisateur"
+    },
+    {
+      "key": "Delete_User",
+      "value": "Supprimer l'utilisateur"
+    },
+    {
+      "key": "ResetPassword",
+      "value": "Réinitialiser le mot de passe"
+    },
+    {
+      "key": "Are_you_sure_you_want_to_Hide Mark _of_this_student_",
+      "value": "Are you sure you want to hide this student's marks?"
+    },
+    {
+      "key": "HideMark",
+      "value": "Hide Marks"
+    },
+    {
+      "key": "HideMark_all",
+      "value": "Masquer Marquer tout"
+    },
+    {
+      "key": "Hide_Mark_Student",
+      "value": "Hide Student's Marks"
+    },
+    {
+      "key": "ShowMark",
+      "value": "Show Marks"
+    },
+    {
+      "key": "ShowMark_all",
+      "value": "AfficherMark_all"
+    },
+    {
+      "key": "Show_Mark_Student",
+      "value": "Show Student's Marks"
+    },
+    {
+      "key": "Sure_Show_Mark_Student",
+      "value": "Are you sure you want to show this student's marks?"
+    },
+    {
+      "key": "Are you sure you want to show this student's marks",
+      "value": "Are you sure you want to show this student's marks?"
+    },
+    {
+      "key": "Email",
+      "value": "Email"
+    },
+    {
+      "key": "Groups/Classes",
+      "value": "Groups/Classes"
+    },
+    {
+      "key": "SignedUp Students",
+      "value": "Élèves inscrits"
+    },
+    {
+      "key": "NoSignedupStudentsYet",
+      "value": "You Have No Signedup Students Yet"
+    },
+    {
+      "key": "Les",
+      "value": "Les"
+    },
+    {
+      "key": "StudentsInPagging",
+      "value": "Élèves"
+    },
+    {
+      "key": "Next Students",
+      "value": "Élèves Suivants"
+    },
+    {
+      "key": "Previoys Students",
+      "value": "Élèves Précédents"
+    },
+    {
+      "key": "The",
+      "value": "Les"
+    },
+    {
+      "key": "Signedup Dates",
+      "value": "Signedup Date"
+    },
+    {
+      "key": "AssistantInPagging",
+      "value": "Assistants"
+    },
+    {
+      "key": "Assistants",
+      "value": "Assistants"
+    },
+    {
+      "key": "Assistantt",
+      "value": "co-enseignant"
+    },
+    {
+      "key": "Create Assistant",
+      "value": ""
+    },
+    {
+      "key": "New Assistant",
+      "value": "New Assistant"
+    },
+    {
+      "key": "Type assistant name",
+      "value": ""
+    },
+    {
+      "key": "Update Assistant",
+      "value": "Modifier les co-enseignant"
+    },
+    {
+      "key": "No_Assistants_Yet",
+      "value": ""
+    },
+    {
+      "key": "Access denied. You are not authorized to view this page.",
+
+      "value": "Accès refusé. Vous n’avez pas l’autorisation d’afficher cette page."
+    },
+    {
+      "key": "Add and edit marks in the gradebook.",
+
+      "value": "Ajouter et modifier les notes dans le carnet de notes."
+    },
+    {
+      "key": "Admin Area",
+
+      "value": "Espace Administrateur"
+    },
+    {
+      "key": "Attendance",
+
+      "value": "Présences"
+    },
+    {
+      "key": "Certificates",
+
+      "value": "Certificats"
+    },
+    {
+      "key": "Create and print certificates for classes and students.",
+
+      "value": "Créez et imprimez des certificats pour les classes et les élèves."
+    },
+    {
+      "key": "Create assignments, questions and online sessions, and upload classroom materials.",
+
+      "value": "Créez des devoirs, des questions et des séances en ligne, et téléchargez votre matériel pédagogique."
+    },
+    {
+      "key": "Invalid_login_information",
+      "value": "Invalid login information. Please check your entries and try again."
+    },
+    {
+      "key": "Manage admissions and enrollment processes.",
+
+      "value": "Gérez les processus d’admission et d’inscription."
+    },
+    {
+      "key": "Manage portal settings and create classes and accounts.",
+
+      "value": "Gérez les paramètres du portail et créez des classes et des comptes."
+    },
+    {
+      "key": "Marking",
+
+      "value": "Notes"
+    },
+    {
+      "key": "Marks Management",
+
+      "value": "Gestion des notes"
+    },
+    {
+      "key": "Online Admission",
+
+      "value": "Admission en ligne"
+    },
+    {
+      "key": "Record student and classroom attendance",
+
+      "value": "Enregistrez les présences des élèves et des classes"
+    },
+    {
+      "key": "Reports",
+
+      "value": "Rapports"
+    },
+    {
+      "key": "Review, edit, and hide marks.",
+
+      "value": "Révisez, modifiez et masquez les notes."
+    },
+    {
+      "key": "School Navigation System",
+
+      "value": "Système de navigation scolaire"
+    },
+    {
+      "key": "Select the system you want to navigate to proceed with your tasks.",
+
+      "value": "Sélectionnez le système que vous souhaitez parcourir pour poursuivre vos tâches."
+    },
+    {
+      "key": "Switch",
+
+      "value": "Changer"
+    },
+    {
+      "key": "Teacher Area",
+
+      "value": "Espace Enseignant"
+    },
+    {
+      "key": "The username isn't registered in any of your portals.",
+
+      "value": "Le nom d’utilisateur n’est enregistré sur aucun de vos portails."
+    },
+    {
+      "key": "View reports and analytics for assessments, teachers, sessions and students.",
+
+      "value": "Affichez des rapports et des analyses sur les évaluations, les éducateurs, les séances et les élèves."
+    },
+    {
+      "key": "Your account has been deactivated. Please contact your portal admin.",
+
+      "value": "Votre compte a été désactivé. Veuillez contacter l’administrateur de votre portail."
+    }
+
+  ]
+}

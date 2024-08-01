@@ -1,0 +1,975 @@
+{
+  "data": [
+    {
+      "key": "Users",
+      "value": "Users"
+    },
+    {
+      "key": "Students",
+      "value": "Students"
+    },
+    {
+      "key": "Create Students",
+      "value": "Create Students"
+    },
+    {
+      "key": "Create Student",
+      "value": "Create Student"
+    },
+    {
+      "key": "Create",
+      "value": "Create"
+    },
+    {
+      "key": "Edit_Option",
+      "value": "Edit"
+    },
+    {
+      "key": "Edit",
+      "value": "Edit"
+    },
+    {
+      "key": "Delete_Option",
+      "value": "Delete"
+    },
+    {
+      "key": "Delete",
+      "value": "Delete"
+    },
+    {
+      "key": "Confirm_Delete",
+      "value": "Delete"
+    },
+    {
+      "key": "Update",
+      "value": "Update"
+    },
+    {
+      "key": "EmptyViewMessage",
+      "value": "You have no students yet. Start adding students now!"
+    },
+    {
+      "key": "Clear",
+      "value": "Clear"
+    },
+    {
+      "key": "Homework",
+      "value": "Homework"
+    },
+
+    {
+      "key": "Students",
+      "value": "Students"
+    },
+    {
+      "key": "Create Student",
+      "value": "Create Student"
+    },
+    {
+      "key": "Create Students",
+      "value": "Create Students"
+    },
+    {
+      "key": "Edit",
+      "value": "Edit"
+    },
+    {
+      "key": "Activate",
+      "value": "Activate"
+    },
+    {
+      "key": "Confirm_Activate",
+      "value": "Activate"
+    },
+    {
+      "key": "Activate Account",
+      "value": "Activate Account"
+    },
+    {
+      "key": "Admin",
+      "value": "Admin"
+    },
+    {
+      "key": "Admission Supervisor",
+      "value": "Admission Supervisor"
+    },
+    {
+      "key": "Are you sure you want to activate this account?",
+      "value": "Are you sure you want to activate this account?"
+    },
+    {
+      "key": "Are you sure you want to deactivate this account?",
+      "value": "Are you sure you want to deactivate this account?"
+    },
+    {
+      "key": "Are you sure you want to delete this user ?",
+      "value": "Are you sure you want to delete this user ?"
+    },
+    {
+      "key": "Are you sure you want to reset this password?",
+      "value": "Are you sure you want to reset this password?"
+    },
+    {
+      "key": "Attach",
+      "value": "Attach"
+    },
+    {
+      "key": "Attendance Coordinator",
+      "value": "Attendance Supervisor"
+    },
+    {
+      "key": "Cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "Classroom",
+      "value": "Student Groups"
+    },
+    {
+      "key": "Create",
+
+      "value": "Create"
+    },
+    {
+      "key": "Create New School Staff Member",
+
+      "value": "Create New School Staff Member"
+    },
+    {
+      "key": "Create_Staff_Member",
+      "value": "Create Staff Member"
+    },
+    {
+      "key": "Deactivate",
+      "value": "Deactivate"
+    },
+    {
+      "key": "Deactivate_Account",
+      "value": "Deactivate Account"
+    },
+    {
+      "key": "Deactivated_Account",
+      "value": "Your account has been deactivated.Please contact your portal admin"
+    },
+    {
+      "key": "Delete_user",
+      "value": "Delete user"
+    },
+    {
+      "key": "Edit New School Staff Member",
+      "value": "Edit Staff Member"
+    },
+    {
+      "key": "Email",
+      "value": "Email"
+    },
+    {
+      "key": "Username_Exists",
+      "value": "This username already exists. Please enter another one."
+    },
+    {
+      "key": "Already_Exists",
+      "value": "Already Exists."
+    },
+    {
+      "key": "Code_Exists",
+      "value":"StudentCode already exists."
+    },
+    {
+      "key": "Enter_Valid_Email",
+      "value": "Please enter a valid email address"
+    },
+    {
+      "key": "Excel File",
+      "value": "Excel File"
+    },
+    {
+      "key": "First_Name_Validation",
+      "value": "First Name should be between 3 to 50 characters."
+    },
+    {
+      "key": "FirstName",
+      "value": "First Name"
+    },
+    {
+      "key": "Grade/Subjects",
+      "value": "Grade/Subjects"
+    },
+    {
+      "key": "Grades_Subjects_Head",
+      "value": "Grades/Subjects for Head of Dept"
+    },
+    {
+      "key": "Grades_Subjects_Teacher",
+      "value": "Grades/Subjects for Teachers"
+    },
+    {
+      "key": "Head of Department",
+      "value": "Head of Department"
+    },
+    {
+      "key": "Last_Name_Validation",
+      "value": "Last Name should be between 3 to 50 characters."
+    },
+    {
+      "key": "LastName",
+      "value": "Last Name"
+    },
+    {
+      "key": "Manager",
+      "value": "Manager"
+    },
+    {
+      "key": "Mobile Number",
+      "value": "Mobile Number"
+    },
+    {
+      "key": "MultipleAddNote",
+      "value": "Please note that if you add a member to multiple roles, separate each member in the Excel sheet with a comma."
+    },
+    {
+      "key": "Nedd_Classroom_ToProceed",
+      "value": "You need to select a student group to proceed."
+    },
+    {
+      "key": "Need_Grade_ToProceed",
+      "value": "You need to select a grade to proceed"
+    },
+    {
+      "key": "Need_Role_ToProceed",
+      "value": "Please select one or more role to proceed."
+    },
+    {
+      "key": "Need_Subject_ToProceed",
+      "value": "You need to select a subject to proceed."
+    },
+    {
+      "key": "Next",
+      "value": "Next"
+    },
+    {
+      "key": "only_1000",
+      "value": "The maximum number of students to upload is 1000 teachers per sheet"
+    },
+    {
+      "key": "Please select one or more role to proceed",
+      "value": "Please select one or more role to proceed."
+    },
+    {
+      "key": "Previous",
+      "value": "Previous"
+    },
+    {
+      "key": "Reports",
+      "value": "Reports"
+    },
+    {
+      "key": "Required_Field",
+      "value": "This field is required"
+    },
+    {
+      "key": "Roles",
+      "value": "Roles"
+    },
+    {
+      "key": "School Staff",
+      "value": "School Staff Members"
+    },
+    {
+      "key": "Select Grade",
+      "value": "Select Grade"
+    },
+    {
+      "key": "Select Roles",
+      "value": "Select Roles"
+    },
+    {
+      "key": "Select Subject",
+      "value": "Select Subject"
+    },
+    {
+      "key": "Select subject and grade",
+      "value": "Please select subject and grade."
+    },
+    {
+      "key": "Select Subjects",
+      "value": "Select Subjects"
+    },
+    {
+      "key": "Select_Classroom",
+      "value": "Select student group"
+    },
+    {
+      "key": "Something_Wrong",
+      "value": "Something went wrong"
+    },
+    {
+      "key": "Staff",
+      "value": "Staff"
+    },
+    {
+      "key": "StaffInPagging",
+      "value": "Staff"
+    },
+    {
+      "key": "String1",
+      "value": []
+    },
+    {
+      "key": "Teacher",
+      "value": "Teacher"
+    },
+    {
+      "key": "The following subjects in this classroom has subsets. Please choose which subset this student will attend.",
+      "value": "The following subjects in this classroom has subsets. Please choose which subset this student will attend."
+    },
+    {
+      "key": "Type User Name/Email",
+      "value": "Type User Name/Email"
+    },
+    {
+      "key": "Upload",
+      "value": "Upload"
+    },
+    {
+      "key": "Upload_Bulk",
+      "value": "To upload multiple teachers, download our <a href =\"{link}\"> template sheet </a>and add your their first and last names, email addresses, and mobile numbers. Then add the grade, subject, and classes they'll be responsible for, which were entered previously in the portal's configuration.\n\nPlease note that if you add a teacher to multiple grades or subjects, separate them in the Excel sheet with a comma."
+    },
+    {
+      "key": "User_Added_Successfully",
+      "value": "User Added Successfully"
+    },
+    {
+      "key": "User Updated Successfully",
+      "value": "User Updated Successfully"
+    },
+    {
+      "key": "ValidEmail",
+      "value": "Please enter a valid email address."
+    },
+    {
+      "key": "ValidNumber",
+      "value": "Please enter a valid number."
+    },
+    {
+      "key": "No_Staff_Memebers_Yet",
+      "value": "You have no staff members yet. Start adding  staff members now!"
+    },
+    {
+      "key": "You have no Staff Users  yet. Start adding Staff User now!",
+      "value": "You have no Staff User  yet. Start adding Users now!"
+    },
+    {
+      "key": "You need to select a classroom to proceed.",
+      "value": "You need to select a classroom to proceed."
+    },
+    {
+      "key": "You need to select a grade to proceed.",
+      "value": "You need to select a grade to proceed."
+    },
+    {
+      "key": "You need to select a subject to proceed.",
+      "value": "You need to select a subject to proceed."
+    },
+
+    {
+      "key": "CreateStudents",
+      "value": "Create Student"
+    },
+    {
+      "key": "Upload",
+      "value": "Upload"
+    },
+    {
+      "key": "Excel_File",
+      "value": "Excel File"
+    },
+    {
+      "key": "OK",
+      "value": "OK"
+    },
+    {
+      "key": "Attach",
+      "value": "Attach"
+    },
+    {
+      "key": "Individual",
+      "value": "Individual"
+    },
+    {
+      "key": "Multiple",
+      "value": "Multiple"
+    },
+    {
+      "key": "StudentCode",
+      "value": "Student Code"
+    },
+    {
+      "key": "First_Name",
+      "value": "First Name"
+    },
+    {
+      "key": "Last_Name",
+      "value": "Last Name"
+    },
+    {
+      "key": "Username",
+      "value": "Username"
+    },
+    {
+      "key": "Grade",
+      "value": "Grade"
+    },
+    {
+      "key": "Select_Grade",
+      "value": "Select Grade"
+    },
+    {
+      "key": "First_Length",
+      "value": "First Name should be between {0} to {1} characters."
+    },
+    {
+      "key": "Last_Length",
+      "value": "Last Name should be between {0} to {1} characters."
+    },
+    {
+      "key": "No_file_attached",
+      "value": "No file attached."
+    },
+    {
+      "key": "Allawed_Chars",
+      "value": "You can only use letters, numbers, dashes, underscores, and periods."
+    },
+    {
+      "key": "Cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "Classrooms",
+      "value": "Classrooms"
+    },
+    {
+      "key": "CREATE",
+      "value": "Create"
+    },
+
+    {
+      "key": "Mobile Number",
+      "value": "Mobile"
+    },
+    {
+      "key": "Student_code_validation",
+      "value": "Must be written in Latin characters"
+    },
+    {
+      "key": "Only dashes, underscores, and periods are allowed",
+      "value": "Only dashes, underscores, and periods are allowed"
+    },
+    {
+      "key": "Please enter at least {0} characters.",
+      "value": "Please enter at least {0} characters."
+    },
+    {
+      "key": "Select Subject",
+      "value": "Select Subject"
+    },
+    {
+      "key": "The Username All",
+      "value": "The Username:\n- Must be written in Latin characters\n- Must be 1 to 50 characters long\n- Must contain at least one letter\n- Only dashes, underscores, and periods are allowed\n- Special characters are permitted except at the beginning\n- Should include the portal suffix at the end\n- No spaces"
+    },
+    {
+      "key": "Tutor Groups",
+      "value": "Student Groups"
+    },
+    {
+      "key": "Name_Alphanumeric_Validation",
+      "value": "You can only use letters, numbers, dashes, underscores."
+    },
+    {
+      "key": "You need to select a classroom to proceed.",
+      "value": "You need to select a classroom to proceed."
+    },
+    {
+      "key": "You need to select a tutor group to proceed.",
+      "value": "You need to select a tutor group to proceed."
+    },
+    {
+      "key": "Edit Students",
+      "value": "Edit Students"
+    },
+    {
+      "key": "The following subjects in this classroom has subsets. Please choose which subset this student will attend.",
+      "value": "The following subjects in this classroom has subsets. Please choose which subset this student will attend."
+    },
+    {
+      "key": "You have no students yet. Start adding students now!",
+      "value": "You have no students yet. Start adding students now!"
+    },
+    {
+      "key": "Activate all",
+      "value": "Activate all"
+    },
+    {
+      "key": "Deactivate_all",
+      "value": "Deactivate all"
+    },
+    {
+      "key": "Delete_all",
+      "value": "Delete all"
+    },
+    {
+      "key": "Remove all",
+      "value": "Remove all"
+    },
+    {
+      "key": "Reset all passwords",
+      "value": "Reset all passwords"
+    },
+    {
+      "key": "Upload_text",
+      "value": "To upload multiple students, download our <a href=\"{link}\">template sheet</a> and add your students' first and last names, the code for their year groups (as set in 'Years'), their student group codes (as set in 'student group'), and unique student IDs."
+    },
+    {
+      "key": "Activate_Student",
+      "value": "Activate User"
+    },
+    {
+      "key": "Are you sure you want to activate All?",
+      "value": "Are you sure you want to activate All?"
+    },
+    {
+      "key": "Are you sure you want to deactivate All?",
+      "value": "Are you sure you want to deactivate all the accounts?"
+    },
+    {
+      "key": "Are you sure you want to deactivate this student?",
+      "value": "Are you sure you want to deactivate this user?"
+    },
+    {
+      "key": "Are you sure you want to delete All?",
+      "value": "Are you sure you want to delete all the accounts?"
+    },
+    {
+      "key": "Are you sure you want to delete this Student?",
+      "value": "Are you sure you want to delete this user?"
+    },
+    {
+      "key": "Are you sure you want to reset All?",
+      "value": "Are you sure you want to reset All?"
+    },
+    {
+      "key": "Are you sure you want to Reset this Password?",
+      "value": "Are you sure you want to reset this user's password?"
+    },
+    {
+      "key": "Are_you_sure_you_want_to_activate_this_student",
+      "value": "Are you sure you want to activate this user?"
+    },
+    {
+      "key": "Clear",
+      "value": "Clear"
+    },
+    {
+      "key": "Deactivate",
+      "value": "Deactivate"
+    },
+    {
+      "key": "Confirm_Deactivate",
+      "value": "Deactivate"
+    },
+    {
+      "key": "Deactivate_student",
+      "value": "Deactivate student"
+    },
+
+    {
+      "key": "Delete_Student",
+      "value": "Delete User"
+    },
+    {
+      "key": "File_Uploaded_Succesfully",
+      "value": "File Uploaded Succesfully"
+    },
+    {
+      "key": "Must be written in Latin characters and only dashes, underscores, and periods are allowed.",
+      "value": "Must be written in Latin characters and only dashes, underscores, and periods are allowed."
+    },
+    {
+      "key": "Must contain at least one letter",
+      "value": "Must contain at least one letter"
+    },
+    {
+      "key": "NewStudent",
+      "value": "Create Students"
+    },
+    {
+      "key": "Next",
+      "value": "Next"
+    },
+    {
+      "key": "Previous",
+      "value": "Previous"
+    },
+    {
+      "key": "Reset",
+      "value": "Reset"
+    },
+    {
+      "key": "Reset All",
+      "value": "Reset All"
+    },
+    {
+      "key": "Reset Password",
+      "value": "Reset Password"
+    },
+    {
+      "key": "Select All Grades",
+      "value": "Select All Grades"
+    },
+    {
+      "key": "Select Tutor Group",
+      "value": "Select Student Group"
+    },
+    {
+      "key": "Select_All_Tutor_Group",
+      "value": "Select All Student Groups"
+    },
+    {
+      "key": "Special characters are permitted except at the beginning and at the end.",
+      "value": "Special characters are permitted except at the beginning and at the end."
+    },
+    {
+      "key": "Students",
+      "value": "Students"
+    },
+    {
+      "key": "Suffix_validation",
+      "value": "The username should include the portal suffix {0} at the end."
+    },
+    {
+      "key": "This field can not be in Arabic.",
+      "value": "Must be written in Latin characters"
+    },
+    {
+      "key": "This field should be between {0} to {1} characters.",
+      "value": "This field should be between {0} to {1} characters."
+    },
+    {
+      "key": "Type student code or name",
+      "value": "Type code, name, or username."
+    },
+    {
+      "key": "Chat",
+      "value": "Chat"
+    },
+    {
+      "key": "Configuration",
+      "value": "Configuration"
+    },
+    {
+      "key": "Connect",
+      "value": "Connect"
+    },
+    {
+      "key": "Multiple_Long_Text",
+      "value": "To upload multiple school staff members, download our template sheet and add your members' first and last names, email address, mobile number, and role. Depending on the role, add the grade, subject, and classrooms they'll be responsible for, which were entered previously in the portal's configuration.\n\nPlease note that if you add a member to multiple roles, separate each member in the Excel sheet with a comma."
+    },
+    {
+      "key": "My Library",
+      "value": "My Library"
+    },
+    {
+      "key": "My_Account",
+      "value": "My Account"
+    },
+    {
+      "key": "Portal_Info",
+      "value": "Portal_Info"
+    },
+    {
+      "key": "Sign_Out",
+      "value": "Sign out"
+    },
+
+    {
+      "key": "Only1000",
+      "value": "The maximum number of students to upload is 1000 student per sheet"
+    },
+    {
+      "key": "StudentGroup",
+      "value": "Student Group"
+    },
+    {
+      "key": "Edit",
+      "value": "Edit"
+    },
+    {
+      "key": "Of",
+      "value": "Of"
+    },
+    {
+      "key": "Contact_Us",
+      "value": "Contact Us"
+    },
+    {
+      "key": "Copyright",
+      "value": "Copyright © 2022 Nagwa"
+    },
+    {
+      "key": "Privacy_Policy",
+      "value": "Privacy Policy"
+    },
+    {
+      "key": "Rights_Reserved",
+      "value": "All Rights Reserved"
+    },
+    {
+      "key": "Terms_Conditions",
+      "value": "Terms and Conditions"
+    },
+    {
+      "key": "Activate_User",
+      "value": "Activate User"
+    },
+    {
+      "key": "Deactivate_User",
+      "value": "Deactivate User"
+    },
+    {
+      "key": "Delete_User",
+      "value": "Delete User"
+    },
+    {
+      "key": "ResetPassword",
+      "value": "Reset Password"
+    },
+    {
+      "key": "Are_you_sure_you_want_to_Hide Mark _of_this_student_",
+      "value": "Are you sure you want to hide this student's marks?"
+    },
+    {
+      "key": "HideMark",
+      "value": "Hide Marks"
+    },
+    {
+      "key": "HideMark_all",
+      "value": "Hide Mark Aall"
+    },
+    {
+      "key": "Hide_Mark_Student",
+      "value": "Hide Student's Marks"
+    },
+    {
+      "key": "ShowMark",
+      "value": "Show Marks"
+    },
+    {
+      "key": "ShowMark_all",
+      "value": "Show Mark All"
+    },
+    {
+      "key": "Show_Mark_Student",
+      "value": "Show Student's Marks"
+    },
+    {
+      "key": "Sure_Show_Mark_Student",
+      "value": "Are you sure you want to show this student's marks?"
+    },
+    {
+      "key": "Are you sure you want to show this student's marks",
+      "value": "Are you sure you want to show this student's marks?"
+    },
+    {
+      "key": "Email",
+      "value": "Email"
+    },
+    {
+      "key": "Groups/Classes",
+      "value": "Groups/Classes"
+    },
+    {
+      "key": "SignedUp Students",
+      "value": "Signed-Up Students"
+    },
+    {
+      "key": "NoSignedupStudentsYet",
+      "value": "You Have No Signedup Students Yet"
+    },
+    {
+      "key": "Les",
+      "value": []
+    },
+    {
+      "key": "StudentsInPagging",
+      "value": "Students"
+    },
+    {
+      "key": "Next Students",
+      "value": "Next Students"
+    },
+    {
+      "key": "Previoys Students",
+      "value": "Previoys Students"
+    },
+    {
+      "key": "The",
+      "value": "The"
+    },
+    {
+      "key": "The Students",
+      "value": "Students"
+    },
+    {
+      "key": "Signedup Dates",
+      "value": "Signedup Date"
+    },
+    {
+      "key": "AssistantInPagging",
+      "value": "Assistants"
+    },
+    {
+      "key": "Assistants",
+      "value": "Assistants"
+    },
+    {
+      "key": "Assistantt",
+      "value": "Assistant"
+    },
+    {
+      "key": "Create Assistant",
+      "value": "Create Assistant"
+    },
+    {
+      "key": "New Assistant",
+      "value": "New Assistant"
+    },
+    {
+      "key": "Type assistant name",
+      "value": "Type assistant name"
+    },
+    {
+      "key": "Update Assistant",
+      "value": "Update Assistant"
+    },
+    {
+      "key": "No_Assistants_Yet",
+      "value": "You don't have any assistants yet."
+    },
+    {
+      "key": "Access denied. You are not authorized to view this page.",
+      
+      "value": "Access denied. You are not authorized to view this page."
+    },
+    {
+      "key": "Add and edit marks in the gradebook.",
+      
+      "value": "Add and edit marks in the gradebook."
+    },
+    {
+      "key": "Admin Area",
+      
+      "value": "Admin Area"
+    },
+    {
+      "key": "Attendance",
+      
+      "value": "Attendance"
+    },
+    {
+      "key": "Certificates",
+      
+      "value": "Certificates"
+    },
+    {
+      "key": "Create and print certificates for classes and students.",
+      
+      "value": "Create and print certificates for classes and students."
+    },
+    {
+      "key": "Create assignments, questions and online sessions, and upload classroom materials.",
+      
+      "value": "Create assignments, questions and online sessions, and upload classroom materials."
+    },
+    {
+      "key": "Invalid_login_information",
+      
+      "value": "Invalid login information. Please check your entries and try again."
+    },
+    {
+      "key": "Manage admissions and enrollment processes.",
+      
+      "value": "Manage admissions and enrollment processes."
+    },
+    {
+      "key": "Manage portal settings and create classes and accounts.",
+      
+      "value": "Manage portal settings and create classes and accounts."
+    },
+    {
+      "key": "Marking",
+      
+      "value": "Marking"
+    },
+    {
+      "key": "Marks Management",
+      
+      "value": "Marks Management"
+    },
+    {
+      "key": "Online Admission",
+      
+      "value": "Online Admission"
+    },
+    {
+      "key": "Record student and classroom attendance",
+      
+      "value": "Record student and classroom attendance"
+    },
+    {
+      "key": "Reports",
+      
+      "value": "Reports"
+    },
+    {
+      "key": "Review, edit, and hide marks.",
+      
+      "value": "Review, edit, and hide marks."
+    },
+    {
+      "key": "School Navigation System",
+      
+      "value": "School Navigation System"
+    },
+    {
+      "key": "Select the system you want to navigate to proceed with your tasks.",
+      
+      "value": "Select the system you want to navigate to proceed with your tasks."
+    },
+    {
+      "key": "Switch",
+      
+      "value": "Switch"
+    },
+    {
+      "key": "Teacher Area",
+      
+      "value": "Teacher Area"
+    },
+    {
+      "key": "The username isn't registered in any of your portals.",
+      
+      "value": "The username isn't registered in any of your portals."
+    },
+    {
+      "key": "View reports and analytics for assessments, teachers, sessions and students.",
+      
+      "value": "View reports and analytics for assessments, teachers, sessions and students."
+    },
+    {
+      "key": "Your account has been deactivated. Please contact your portal admin.",
+      
+      "value": "Your account has been deactivated. Please contact your portal admin."
+    }
+
+  ]
+}

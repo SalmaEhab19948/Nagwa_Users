@@ -1,0 +1,903 @@
+{
+  "data": [
+    {
+      "key": "Activate",
+      "value": "تنشيط"
+    },
+    {
+      "key": "Confirm_Activate",
+      "value": "تنشيط"
+    },
+    {
+      "key": "Delete",
+      "value": "حذف"
+    },
+    {
+      "key": "Confirm_Delete",
+      "value": "حذف"
+    },
+    {
+      "key": "Activate Account",
+      "value": "تنشيط الحساب"
+    },
+    {
+      "key": "Admin",
+      "value": "المسئول"
+    },
+    {
+      "key": "Attendance Coordinator",
+      "value": "مشرف الحضور"
+    },
+    {
+      "key": "Admission Supervisor",
+      "value": "مشرف التقديم"
+    },
+    {
+      "key": "Are you sure you want to activate this account?",
+      "value": "هل أنت متأكد أنك تريد تنشيط هذا الحساب؟"
+    },
+    {
+      "key": "Are you sure you want to deactivate this account?",
+      "value": "هل أنت متأكد أنك تريد إلغاء تنشيط هذا الحساب؟"
+    },
+    {
+      "key": "Are you sure you want to delete this user ?",
+      "value": "هل أنت متأكد أنك تريد حذف هذا الحساب؟"
+    },
+    {
+      "key": "Are you sure you want to reset this password?",
+      "value": "هل أنت متأكِّد من أنك تريد إعادة تعيين كلمة المرور؟"
+    },
+    {
+      "key": "Attach",
+      "value": "إرفاق"
+    },
+    {
+      "key": "Cancel",
+      "value": "الغاء"
+    },
+    {
+      "key": "Classroom",
+      "value": "مجموعة طلاب"
+    },
+    {
+      "key": "Create",
+      "value": "إنشاء"
+    },
+    {
+      "key": "Create_Staff_Member",
+      "value": "إنشاء عضو هيئة تدريس جديد"
+    },
+    {
+      "key": "Create New Staff Member",
+      "value": "إنشاء عضو هيئة تدريس جديد"
+    },
+    {
+      "key": "Deactivate",
+      "value": "إلغاء التنشيط"
+    },
+    {
+      "key": "Deactivate Account",
+      "value": "إلغاء تنشيط الحساب"
+    },
+    {
+      "key": "Delete user",
+      "value": "حذف المستخدم"
+    },
+    {
+      "key": "Edit School Staff Member",
+      "value": []
+    },
+    {
+      "key": "Email",
+      "value": "البريد الإلكتروني"
+    },
+    {
+      "key": "Username_Exists",    
+      "value":  "موجود بالفعل"
+    },
+    {
+    "key": "Already_Exists"    
+    },
+    {
+      "key": "Code_Exists"
+    },
+    {
+      "key": "Enter_Valid_Email",
+      "value": "يُرجَى إدخال عنوان بريد إلكتروني صالح."
+    },
+    {
+      "key": "Excel File",
+      "value": "ملف Excel"
+    },
+    {
+      "key": "First_Name_Validation",
+      "value": "يجب أن يكون طول الاسم الأول من 3 إلى 50 حرفًا."
+    },
+    {
+      "key": "FirstName",
+      "value": "الاسم الأول"
+    },
+    {
+      "key": "Grade/Subjects",
+      "value": "الصفوف/المواد"
+    },
+    {
+      "key": "Grades_Subjects_Head",
+      "value": "الصفوف/المواد لرئيس القسم."
+    },
+    {
+      "key": "Grades_Subjects_Teacher",
+      "value": "الصفوف/المواد للمدرسين"
+    },
+    {
+      "key": "Head of Department",
+      "value": "رئيس القسم"
+    },
+    {
+      "key": "Last-Name_Validation",
+      "value": "يجب أن يكون طول اسم العائلة من ٣ إلى ٥٠ حرفًا."
+    },
+    {
+      "key": "LastName",
+      "value": "الاسم الأخير"
+    },
+    {
+      "key": "Manager",
+      "value": "المدير"
+    },
+    {
+      "key": "Mobile Number",
+      "value": "رقم الهاتف"
+    },
+    {
+      "key": "MultipleAddNote",
+      "value": "الرجاء ملاحظة أنه إذا أضفت عدة أدوار للعضو، قم بفصل كل عضو في صفحة Excel عن الآخر بفاصلة."
+    },
+    {
+      "key": "Nedd_Classroom_ToProceed",
+      "value": "عليك اختيار مجموعة طلاب للمتابعة."
+    },
+    {
+      "key": "Need_Role_ToProceed",
+      "value": "الرجاء اختيار دور واحد أو أكثر للمتابعة."
+    },
+    {
+      "key": "Next",
+      "value": "التالى"
+    },
+    {
+      "key": "only_1000",
+      "value": "الحد الأقصى للمعلمين المضافين في المرة الواحدة 1000 معلم."
+    },
+    {
+      "key": "Please select one or more role to proceed",
+      "value": "الرجاء اختيار دور واحد أو أكثر للمتابعة."
+    },
+    {
+      "key": "Previous",
+      "value": "السابق"
+    },
+    {
+      "key": "Reports",
+      "value": "التقارير"
+    },
+    {
+      "key": "Required_Field",
+      "value": "هذا الحقل مطلوب"
+    },
+    {
+      "key": "Roles",
+      "value": "الأدوار"
+    },
+    {
+      "key": "School Staff",
+      "value": "أعضاء هيئة التدريس بالمدرسة"
+    },
+    {
+      "key": "Select Grade",
+      "value": "اختيار صفٍّ دراسيٍّ"
+    },
+    {
+      "key": "Select Roles",
+      "value": "اختيار دور"
+    },
+    {
+      "key": "Select Subject",
+      "value": "اختيار مادة"
+    },
+    {
+      "key": "Select subject and grade",
+      "value": "يُرجَى تحديد المادة والصفِّ الدراسيِّ."
+    },
+    {
+      "key": "Select_Classroom",
+      "value": "اختيار مجموعة الطلاب"
+    },
+    {
+      "key": "Something_Wrong",
+      "value": "حدث خطأ ما!"
+    },
+    {
+      "key": "Staff",
+      "value": "أعضاء هيئة التدريس"
+    },
+    {
+      "key": "StaffInPagging",
+      "value": "الأعضاء ال"
+    },
+    {
+      "key": "String1",
+      "value": "منسق الحضور والغياب"
+    },
+    {
+      "key": "Teacher",
+      "value": "المعلم"
+    },
+    {
+      "key": "The following subjects in this classroom has subsets. Please choose which subset this student will attend.",
+      "value": "المواد التالية في هذا الفصل لها مجموعات فرعية. يُرجَى اختيار المجموعة الفرعية التي سيحضرها الطالب."
+    },
+    {
+      "key": "Type User Name/Email",
+      "value": "اكتب اسم المستخدم / البريد الإلكتروني"
+    },
+    {
+      "key": "Update",
+      "value": "تعديل"
+    },
+    {
+      "key": "EmptyViewMessage",
+      "value": "ليس لديك أيُّ طلاب حتى الآن. ابدأ بإضافة الطلاب الآن!"
+    },
+    {
+      "key": "Upload",
+      "value": "تحميل"
+    },
+    {
+      "key": "Upload_Bulk",
+      "value": "\"لتحميل العديد من المعلمين، عليك تنزيل  <a href=\"{link}\">نموذجنا </a>وإضافة الاسم الأول والاسم الأخير للمعلمين، وعناوين البريد الإلكتروني، وأرقام الهواتف المحمولة، والأدوار. ويكون ذلك بناءً على الدور والصفوف الدراسية والمادة والفصول الدراسية المسئولين عنها، والتي تم إدخالها فيما سبق في إعدادات البوابة. \n\nيرجى ملاحظة أنه إذا أضفت مدرسًا إلى صفوف أو مواد متعددة ، فافصل بينها في ورقة Excel بفاصلة.\n\nلتحميل العديد من المعلمين، عليك تنزيل نموذجنا وإضافة الاسم الأول والاسم الأخير للمعلمين، وعناوين البريد الإلكتروني، وأرقام الهواتف المحمولة، والأدوار. ويكون ذلك بناءً على الدور والصفوف الدراسية والمادة والفصول الدراسية المسئولين عنها، والتي تم إدخالها فيما سبق في إعدادات البوابة. \n\nيرجى ملاحظة أنه إذا أضفت مدرسًا إلى صفوف أو مواد متعددة ، فافصل بينها في ورقة Excel بفاصلة"
+    },
+    {
+      "key": "User_Added_Successfully",
+      "value": "تم اضافه مستخدم بنجاح"
+    },
+    {
+      "key": "User Updated Successfully",
+      "value": "تم تعديل مستخدم بنجاح"
+    },
+    {
+      "key": "ValidEmail",
+      "value": "يُرجَى إدخال عنوان بريد إلكتروني صالح."
+    },
+    {
+      "key": "ValidNumber",
+      "value": "يُرجَى إدخال رقم صحيح."
+    },
+    {
+      "key": "No_Staff_Memebers_Yet",
+      "value": "ليس لديك أيُّ أعضاء هيئة التدريس حتى الآن. ابدأ بإضافة أعضاء هيئة التدريس الآن!"
+    },
+    {
+      "key": "You have no Staff Users  yet. Start adding Staff User now!",
+      "value": "ليس لديك أيُّ  مستخدمين حتى الآن. ابدأ بإضافة  المستخدمين الآن!"
+    },
+    {
+      "key": "You need to select a classroom to proceed.",
+      "value": "عليك اختيار مجموعة طلاب للمتابعة."
+    },
+    {
+      "key": "You need to select a grade to proceed.",
+      "value": "عليك اختيار صف دراسي للمتابعة."
+    },
+    {
+      "key": "You need to select a subject to proceed.",
+      "value": "عليك اختيار مادة للمتابعة."
+    },
+
+    {
+      "key": "CreateStudents",
+      "value": "إنشاء طلاب"
+    },
+    {
+      "key": "Upload",
+      "value": "تحميل"
+    },
+    {
+      "key": "Excel_File",
+      "value": "ملف Excel"
+    },
+    {
+      "key": "OK",
+      "value": "موافق"
+    },
+    {
+      "key": "Attach",
+      "value": "إرفاق"
+    },
+    {
+      "key": "Individual",
+      "value": "واحد تلو الآخَر"
+    },
+    {
+      "key": "Multiple",
+      "value": "مُتعدِّد"
+    },
+    {
+      "key": "StudentCode",
+      "value": "رمز الطالب"
+    },
+    {
+      "key": "First_Name",
+      "value": "الاسم الأول"
+    },
+    {
+      "key": "Last_Name",
+      "value": "الاسم الأخير"
+    },
+    {
+      "key": "Username",
+      "value": "اسم المستخدم"
+    },
+    {
+      "key": "Grade",
+      "value": "الصف الدراسى"
+    },
+    {
+      "key": "Select_Grade",
+      "value": "اختيار صفٍّ دراسيٍّ"
+    },
+    {
+      "key": "First_Length",
+      "value": "يجب أن يكون طول الاسم الأول من {0} إلى {1} حرفًا."
+    },
+    {
+      "key": "Last_Length",
+      "value": "يجب أن يكون طول اسم العائلة من {0} إلى {1} حرفًا."
+    },
+    {
+      "key": "No_file_attached",
+      "value": "لا يوجد ملف مرفق."
+    },
+    {
+      "key": "Allawed_Chars",
+      "value": "يمكنك استخدام الحروف والأرقام والشرطات والشرطات السفلية والنقاط فقط."
+    },
+    {
+      "key": "Cancel",
+      "value": "إلغاء"
+    },
+    {
+      "key": "Classrooms",
+      "value": "الفصول"
+    },
+    {
+      "key": "CREATE",
+      "value": "إنشاء"
+    },
+    {
+      "key": "Create Students",
+      "value": "إنشاء طلاب"
+    },
+    {
+      "key": "Mobile Number",
+      "value": "رقم الهاتف"
+    },
+    {
+      "key": "Student_code_validation",
+      "value": "يجب أن يُكتَب بأحرف لاتينية"
+    },
+    {
+      "key": "Only dashes, underscores, and periods are allowed",
+      "value": "مسموح باستخدام الشرطة والشرطة السفلية والنقطة فقط"
+    },
+    {
+      "key": "Please enter at least {0} characters.",
+      "value": "يُرجَى إدخال ما لا يقلُّ عن {0} من الحروف."
+    },
+    {
+      "key": "Select Subject",
+      "value": "اختيار مادة"
+    },
+    {
+      "key": "The Username All",
+      "value": "اسم المُستخدِم:\n-يجب أن يُكتَب بأحرف لاتينية\n-يجب أن يتراوح طوله من 1 إلى 50 حرفًا\n-يجب أن يحتوي على حرف واحد على الأقل\n-مسموح باستخدام الشرطة والشرطة السفلية والنقطة فقط\n-مسموح باستخدام الأحرف الخاصة، لكن لا يُمكِن البدء بها\n-يجب أن يتضمَّن لاحقة البوابة في نهايته\n-يجب ألَّا يتضمَّن أيَّ مسافات"
+    },
+    {
+      "key": "Tutor Groups",
+      "value": "مجموعة الطلاب"
+    },
+    {
+      "key": "Name_Alphanumeric_Validation",
+      "value": "يمكنك استخدام الحروف والأرقام والشرطات والشرطات السفلية والنقاط فقط."
+    },
+    {
+      "key": "You need to select a classroom to proceed.",
+      "value": "عليك اختيار مجموعة طلاب للمتابعة."
+    },
+    {
+      "key": "You need to select a tutor group to proceed.",
+      "value": "الرجاء اختيار مدرس خصوصي للمتابعة."
+    },
+    {
+      "key": "Edit Students",
+      "value": "تعديل بيانات الطلاب"
+    },
+    {
+      "key": "The following subjects in this classroom has subsets. Please choose which subset this student will attend.",
+      "value": "المواد التالية في هذا الفصل لها مجموعات فرعية. يُرجَى اختيار المجموعة الفرعية التي سيحضرها الطالب."
+    },
+    {
+      "key": "You have no students yet. Start adding students now!",
+      "value": "ليس لديك أيُّ طلاب حتى الآن. ابدأ بإضافة الطلاب الآن!"
+    },
+    {
+      "key": "Activate all",
+      "value": "تنشيط الكل"
+    },
+    {
+      "key": "Deactivate all",
+      "value": "إلغاء تنشيط الكل"
+    },
+    {
+      "key": "Delete all",
+      "value": "حذف الكل"
+    },
+    {
+      "key": "Remove all",
+      "value": "إزالة الكل"
+    },
+    {
+      "key": "Reset all passwords",
+      "value": "إعادة تعيين كل كلمات المرور"
+    },
+    {
+      "key": "Upload_text",
+      "value": "لتحميل عدة طلاب، عليك تنزيل <a href=\"{link}\">نموذجنا </a> وإضافة الاسم الأول والاسم الأخير لطلابك، ورمز مجموعات السنوات (كما هو موضح في \"السنوات\")، ورموز مجموعات الطلاب (كما هو موضح في \"مجموعات الطلاب\")، وأرقام مُعرَّف الطالب الفريدة الخاصة بهم."
+    },
+    {
+      "key": "Are you sure you want to activate All?",
+      "value": "هل أنت مُتأكِّد من أنك تريد تنشيط كلِّ الحسابات؟"
+    },
+    {
+      "key": "Are you sure you want to deactivate All?",
+      "value": "هل أنت مُتأكِّد من أنك تريد إلغاء تنشيط كلِّ الحسابات؟"
+    },
+    {
+      "key": "Are you sure you want to deactivate this student?",
+      "value": "هل تريد بالتأكيد إلغاء تنشيط هذا المستخدم؟"
+    },
+    {
+      "key": "Are you sure you want to delete All?",
+      "value": "هل أنت مُتأكِّد من أنك تريد حذف كلِّ الحسابات؟"
+    },
+    {
+      "key": "Are you sure you want to delete this Student?",
+      "value": "هل تريد بالتأكيد حذف هذا المستخدم؟"
+    },
+    {
+      "key": "Are you sure you want to reset All?",
+      "value": "هل أنت مُتأكِّد من أنك تريد إعادة تعيين كلِّ كلمات المرور؟"
+    },
+    {
+      "key": "Are you sure you want to Reset this Password?",
+      "value": "هل أنت متأكِّد من أنك تريد إعادة تعيين كلمة المرور لهذا المستخدم؟"
+    },
+    {
+      "key": "Clear",
+      "value": "مسح"
+    },
+    {
+      "key": "Deactivate",
+      "value": "إلغاء التنشيط"
+    },
+    {
+      "key": "Confirm_Deactivate",
+      "value": "إلغاء التنشيط"
+    },
+    {
+      "key": "Deactivate student",
+      "value": "إلغاء التنشيط للطالب"
+    },
+    {
+      "key": "Deactivated_Account",
+      "value": "Your account has been deactivated.Please contact your portal admin"
+    },
+    {
+      "key": "Delete Student",
+      "value": "حذف"
+    },
+    {
+      "key": "NewStudent",
+      "value": "إنشاء طلاب"
+    },
+    {
+      "key": "Next",
+      "value": "التاليون"
+    },
+    {
+      "key": "Reset",
+      "value": "إعادة تعيين"
+    },
+    {
+      "key": "Reset All",
+      "value": "إعادة تعيين كل كلمات المرور"
+    },
+    {
+      "key": "Reset Password",
+      "value": "إعادة تعيين  كلمة المرور"
+    },
+    {
+      "key": "Select All Grades",
+      "value": "كل السنين الدراسية"
+    },
+    {
+      "key": "Select Tutor Group",
+      "value": "اختر مجموعة الطلاب"
+    },
+    {
+      "key": "Students",
+      "value": "الطلاب"
+    },
+    {
+      "key": "Type student code or name",
+      "value": "اكتب الرمز أو الاسم أو اسم المستخدم."
+    },
+    {
+      "key": "Activate_Student",
+      "value": "تنشيط المستخدم"
+    },
+    {
+      "key": "Are_you_sure_you_want_to_activate_this_student",
+      "value": "هل تريد بالتأكيد تنشيط هذا المستخدم؟"
+    },
+    {
+      "key": "Deactivate_student",
+      "value": "إلغاء التنشيط للطالب"
+    },
+    {
+      "key": "Previous",
+      "value": "السابقون"
+    },
+    {
+      "key": "Select_All_Tutor_Group",
+      "value": "كل مجموعة الطلاب"
+    },
+    {
+      "key": "File_Uploaded_Succesfully",
+      "value": []
+    },
+    {
+      "key": "Must be written in Latin characters and only dashes, underscores, and periods are allowed.",
+      "value": "يجب أن يُكتَب بأحرف لاتينية,مسموح باستخدام الشرطة والشرطة السفلية والنقطة فقط"
+    },
+    {
+      "key": "Must contain at least one letter",
+      "value": "يجب أن يحتوي على حرف واحد على الأقل"
+    },
+    {
+      "key": "Special characters are permitted except at the beginning and at the end.",
+      "value": []
+    },
+    {
+      "key": "Suffix_validation",
+      "value": "اسم المُستخدِم يجب أن يتضمَّن لاحقة البوابة @suf في نهايته"
+    },
+    {
+      "key": "This field can not be in Arabic.",
+      "value": "يجب أن يُكتَب بأحرف لاتينية"
+    },
+    {
+      "key": "This field should be between {0} to {1} characters.",
+      "value": "هذا الحقل يجب ان يكون من {0} إلى {1} حرفًا"
+    },
+    {
+      "key": "Chat",
+      "value": "Chat"
+    },
+    {
+      "key": "Configuration",
+      "value": "تكوين البوابة"
+    },
+    {
+      "key": "Connect",
+      "value": "Connect"
+    },
+    {
+      "key": "Homework",
+      "value": "Homework"
+    },
+    {
+      "key": "Multiple_Long_Text",
+      "value": "لتحميل عدة طلاب، عليك تنزيل <a href=\"{link}\">نموذجنا </a> وإضافة الاسم الأول والاسم الأخير لطلابك، ورمز مجموعات السنوات (كما هو موضح في \"السنوات\")، ورموز مجموعات الطلاب (كما هو موضح في \"مجموعات الطلاب\")، وأرقام مُعرَّف الطالب الفريدة الخاصة بهم."
+    },
+    {
+      "key": "My Library",
+      "value": "مكتبتي"
+    },
+    {
+      "key": "My_Account",
+      "value": "حسابي"
+    },
+    {
+      "key": "Portal_Info",
+      "value": "معلومات عن البوابة"
+    },
+    {
+      "key": "Sign_Out",
+      "value": "تسجيل الخروج"
+    },
+    {
+      "key": "Users",
+      "value": "المستخدمون"
+    },
+    {
+      "key": "Only1000",
+      "value": "اقصى عدد للطلبة هو 1000 طالب في الملف الواحد"
+    },
+    {
+      "key": "StudentGroup",
+      "value": "مجموعه طلاب"
+    },
+    {
+      "key": "Edit",
+      "value": "تعديل"
+    },
+    {
+      "key": "Of",
+      "value": "من"
+    },
+    {
+      "key": "Contact_Us",
+      "value": "اتصل بنا"
+    },
+    {
+      "key": "Copyright",
+      "value": "حقوق النشر © 2022 نجوى"
+    },
+    {
+      "key": "Privacy_Policy",
+      "value": "سياسة الخصوصية"
+    },
+    {
+      "key": "Rights_Reserved",
+      "value": "جميع الحقوق محفوظة."
+    },
+    {
+      "key": "Terms_Conditions",
+      "value": "الأحكام والشروط"
+    },
+    {
+      "key": "Activate_User",
+      "value": "تنشيط المستخدم"
+    },
+    {
+      "key": "Deactivate_User",
+      "value": "إلغاء تنشيط المستخدم"
+    },
+    {
+      "key": "Delete_User",
+      "value": "حذف المستخدم"
+    },
+    {
+      "key": "ResetPassword",
+      "value": "إعادة تعيين كلمة المرور"
+    },
+    {
+      "key": "Are_you_sure_you_want_to_Hide Mark _of_this_student_",
+      "value": "هل تريد بالتأكيد إخفاء درجات هذا الطالب؟"
+    },
+    {
+      "key": "HideMark",
+      "value": "اخفاء الدرجات"
+    },
+    {
+      "key": "HideMark_all",
+      "value": "اخفاء درجات الكل"
+    },
+    {
+      "key": "Hide_Mark_Student",
+      "value": "اخفاء درجات الطالب"
+    },
+    {
+      "key": "ShowMark",
+      "value": "إظهار الدرجات"
+    },
+    {
+      "key": "ShowMark_all",
+      "value": "اظهار درجات الكل"
+    },
+    {
+      "key": "Show_Mark_Student",
+      "value": "إظهار درجات الطالب"
+    },
+    {
+      "key": "Sure_Show_Mark_Student",
+      "value": "هل تريد بالتأكيد إظهار درجات هذا الطالب؟"
+    },
+    {
+      "key": "Are you sure you want to show this student's marks",
+      "value": "هل تريد بالتأكيد إظهار درجات هذا الطالب؟"
+    },
+    {
+      "key": "Email",
+      "value": "البريد الالكترونى"
+    },
+    {
+      "key": "Groups/Classes",
+      "value": "المجموعات/الفصول"
+    },
+    {
+      "key": "SignedUp Students",
+      "value": "الطلاب المُشترِكون"
+    },
+    {
+      "key": "NoSignedupStudentsYet",
+      "value": "لا يوجد طلاب"
+    },
+    {
+      "key": "StudentsInPagging",
+      "value": "الطلاب ال"
+    },
+    {
+      "key": "The",
+      "value": "ال"
+    },
+    {
+      "key": "The Students",
+      "value": "الطلاب ال"
+    },
+    {
+      "key": "Signedup Dates",
+      "value": "تاريخ التسجيل"
+    },
+    {
+      "key": "AssistantInPagging",
+      "value": "المساعدون ال"
+    },
+    {
+      "key": "Assistants",
+      "value": "مدرسين مساعدين"
+    },
+    {
+      "key": "Assistantt",
+      "value": "مُدرِّس مُساعِد"
+    },
+    {
+      "key": "Create Assistant",
+      "value": "أضافة مدرس مساعد"
+    },
+    {
+      "key": "New Assistant",
+      "value": "أضف مدرس مساعد"
+    },
+    {
+      "key": "Type assistant name",
+      "value": "اكتب اسم المدرس المساعد"
+    },
+    {
+      "key": "Update Assistant",
+      "value": "تعديل مدرس مساعد"
+    },
+    {
+      "key": "No_Assistants_Yet",
+      "value": "ليس لديك اي مدرسين مساعدين"
+    },
+
+ {
+  "key": "Access denied. You are not authorized to view this page.",
+
+  "value": "الدخول مرفوض. غير مُصرَّح لك بعرض هذه الصفحة."
+},
+{
+  "key": "Add and edit marks in the gradebook.",
+
+  "value": "إضافة الدرجات وتعديلها في سجل الدرجات."
+},
+{
+  "key": "Admin Area",
+
+  "value": "لوحة تحكم المسئول"
+},
+{
+  "key": "Attendance",
+
+  "value": "الحضور"
+},
+{
+  "key": "Certificates",
+
+  "value": "الشهادات"
+},
+{
+  "key": "Create and print certificates for classes and students.",
+
+  "value": "إنشاء شهادات وطباعتها للفصول الدراسية والطلاب."
+},
+{
+  "key": "Create assignments, questions and online sessions, and upload classroom materials.",
+
+  "value": "إنشاء تكليفات وأسئلة وحصص عبر الإنترنت ورفع المواد المستخدمة في الفصول الدراسية."
+},
+{
+  "key": "Invalid_login_information",
+  "value": "Invalid login information. Please check your entries and try again."
+},
+{
+  "key": "Manage admissions and enrollment processes.",
+
+  "value": "إدارة عمليات التقديم وتسجيل البيانات."
+},
+{
+  "key": "Manage portal settings and create classes and accounts.",
+
+  "value": "إدارة إعدادات البوابة وإنشاء فصول وحسابات."
+},
+{
+  "key": "Marking",
+
+  "value": "الدرجات"
+},
+{
+  "key": "Marks Management",
+
+  "value": "إدارة الدرجات"
+},
+{
+  "key": "Online Admission",
+
+  "value": "التقديم عبر الإنترنت"
+},
+{
+  "key": "Record student and classroom attendance",
+
+  "value": "تسجيل الحضور للطلاب والفصول الدراسية."
+},
+{
+  "key": "Reports",
+
+  "value": "التقارير"
+},
+{
+  "key": "Review, edit, and hide marks.",
+
+  "value": "مراجعة الدرجات وتعديلها وإخفاءها."
+},
+{
+  "key": "School Navigation System",
+
+  "value": "نظام التنقل الخاص بالمدرسة"
+},
+{
+  "key": "Select the system you want to navigate to proceed with your tasks.",
+
+  "value": "اختيار نظام التنقل الذي تريد استخدامه لمتابعة مهامك."
+},
+{
+  "key": "Switch",
+
+  "value": "تغيير"
+},
+{
+  "key": "Teacher Area",
+
+  "value": "لوحة تحكم المعلم"
+},
+{
+  "key": "The username isn't registered in any of your portals.",
+
+  "value": "اسم المُستخدِم غير مُسجَّل في أيٍّ من البوَّابات الخاصَّة بك."
+},
+{
+  "key": "View reports and analytics for assessments, teachers, sessions and students.",
+
+  "value": "عرض التقارير والإحصاءات للتقييمات والمعلمين والحصص والطلاب."
+},
+{
+  "key": "Your account has been deactivated. Please contact your portal admin.",
+
+  "value": "تمَّ إلغاء تنشيط حسابك. يُرجَى الاتِّصال بمسئول البوَّابة لديك."
+}
+
+  ]
+}

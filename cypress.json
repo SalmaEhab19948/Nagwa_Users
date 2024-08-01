@@ -1,0 +1,25 @@
+{
+  "viewportWidth": 1200,
+  "viewportHeight": 700,
+  "testFiles": "**/*.{feature,features}",
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 100000,
+  "ignoreTestFiles": ["*.js"],
+  "baseUrl": "https://accounts.nagwa.com/",
+  "students_baseUrl": "https://students.nagwa.com/",
+  "env": {
+    "local": "en-US",
+    "test_environment": "Live"
+  },
+  "dbLive": {
+    "userName": "cds_team",
+    "password": "u32q8uthjavjsakjf903qrqRQ2Q5rq0fdsv0dskqd432f02wir02raczofdikhnpoidr0obWA",
+    "server": "users-cds.cmmuo3lde4yu.us-east-1.rds.amazonaws.com",
+    "port": 1433,
+    "options": {
+      "database": "UserManagment",
+      "encrypt": false,
+      "rowCollectionOnRequestCompletion": true
+    }
+  }
+}

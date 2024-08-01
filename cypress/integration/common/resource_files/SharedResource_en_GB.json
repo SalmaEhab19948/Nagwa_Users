@@ -1,0 +1,40 @@
+{
+   "data": [
+      {
+         "key": "Users",
+         "value": "Users"
+      },
+      {
+         "key": "Students",
+         "value": "Students"
+      },
+      {
+         "key": "Create Students",
+         "value": "Create Students"
+      },
+      {
+         "key": "Create Student",
+         "value": "Create Student"
+      },
+      {
+         "key": "Create",
+         "value": "Create"
+      },
+      {
+         "key": "Edit",
+         "value": "Edit"
+      },
+      {
+         "key": "Update",
+         "value": "Update"
+      },
+      {
+         "key": "EmptyViewMessage",
+         "value": "You have no students yet. Start adding students now!"
+      },
+      {
+         "key": "Clear",
+         "value": "Clear"
+      }
+   ]
+}
